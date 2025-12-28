@@ -103,7 +103,7 @@ You can clone the repository using the command line or GitHub Desktop.
 2. Open GitHub Desktop.
 3. Click on "File" in the menu bar and select "Clone repository..."
 4. In the "Clone a Repository" window, select the "URL" tab.
-5. Paste the repository URL: https://github.com/MastanSayyad/Visual-Sort.git
+5. Paste the repository URL: https://github.com/MastanSayyad/Learning-Management-System.git
 6. Choose the local path where you want to clone the repository.
 7. Click "Clone".
 
@@ -128,4 +128,5 @@ You can clone the repository using the command line or GitHub Desktop.
 
 
 This project demonstrates a clear understanding of Java OOP fundamentals and proper system design using UML modeling.
+
 
