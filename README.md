@@ -21,6 +21,42 @@ src/
 - **Java**
 - **Object-Oriented Programming (OOP)**
 
+## UML Diagrams
+
+The project is documented using standard UML diagrams:
+1. **Class Diagram:** Represents system structure and inheritance
+2. **Sequence Diagram:** Models student login flow
+3. **Component Diagram:** Shows high-level architectural component
+
+These diagrams help visualize structure, behavior, and system organization.
+
+### 1) UML Class Diagram
+
+<img width="947" height="902" alt="image" src="https://github.com/user-attachments/assets/eb1fc998-4be0-4b50-b496-1dd2764ae1ff" />
+
+### 2) UML Component Diagram
+
+<img width="1134" height="783" alt="image" src="https://github.com/user-attachments/assets/e24665be-1d3e-4de1-92d6-067f665b06c6" />
+<br>
+
+- **Platform:** Abstract base component providing platform-level properties and behaviors.
+- **Course:** Abstract component extending Platform, defining course-related structure.
+- **Instructor:** Implements course behavior and provides instructor-specific logic.
+- **Student:** Handles student details and authentication logic.
+- **LaunchLMS:** Application entry point responsible for object creation and execution.
+
+### 3) Student Login Sequence flow
+
+<img width="1041" height="733" alt="image" src="https://github.com/user-attachments/assets/ce2ff6e1-fc63-4a88-b9eb-b69e2c099ba0" />
+
+<br>
+
+- **Actor:** Student user
+- **LaunchLMS:** Controls program execution
+- **Student:** Handles authentication logic
+- **Decision flow:**
+   - Valid credentials → success
+   - Invalid credentials → error
 
 
 ###  OOP Concepts Implemented
@@ -93,6 +129,7 @@ You can clone the repository using the command line or GitHub Desktop.
 
 
 This project demonstrates a clear understanding of Java OOP fundamentals and proper system design using UML modeling.
+
 
 
 
