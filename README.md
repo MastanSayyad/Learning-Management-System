@@ -88,7 +88,7 @@ You can clone the repository using the command line or GitHub Desktop.
 1. Navigate to the repository: [Learning-Management-System](https://github.com/MastanSayyad/Learning-Management-System/) 
 2. Clone the repository:
 
-   ```bash
+   ```vbnet
    git clone https://github.com/MastanSayyad/Learning-Management-System.git
    ```
 3. Navigate to the project directory:
@@ -128,5 +128,6 @@ You can clone the repository using the command line or GitHub Desktop.
 
 
 This project demonstrates a clear understanding of Java OOP fundamentals and proper system design using UML modeling.
+
 
 
