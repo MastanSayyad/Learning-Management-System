@@ -77,10 +77,6 @@ These diagrams help visualize structure, behavior, and system organization.
 
 ## #Getting Started
 
-Contributions are welcome! Feel free to open an issue or submit a pull request. 
-**Please Make sure you Star the repository ⭐** and Read [CONTRIBUTING.md](https://github.com/MastanSayyad/Visual-Sort/blob/main/CONTRIBUTING.md)
-
-
 Follow these instructions to get a copy of the project up and running on your local machine for development and testing purposes.
 
 ### #Cloning the Repository
@@ -132,3 +128,4 @@ You can clone the repository using the command line or GitHub Desktop.
 
 
 This project demonstrates a clear understanding of Java OOP fundamentals and proper system design using UML modeling.
+
