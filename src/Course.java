@@ -1,4 +1,3 @@
-package com.oops.lms;
 
 public abstract  class Course extends Platform {
 	
