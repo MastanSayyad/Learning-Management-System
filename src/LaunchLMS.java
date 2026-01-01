@@ -1,4 +1,3 @@
-package com.oops.lms;
 
 import java.util.Scanner;
 
