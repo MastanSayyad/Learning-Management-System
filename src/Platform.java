@@ -1,4 +1,3 @@
-package com.oops.lms.src;
 
 /**
  * Learning Management System (LMS) Single level: Class inherited from only one

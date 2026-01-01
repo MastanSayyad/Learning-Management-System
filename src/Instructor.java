@@ -1,4 +1,3 @@
-package com.oops.lms;
 
 public class Instructor extends Course{
 	
