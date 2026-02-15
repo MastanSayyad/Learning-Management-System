@@ -130,6 +130,11 @@ You can clone the repository using the command line or GitHub Desktop.
 
 This project demonstrates a clear understanding of Java OOP fundamentals and proper system design using UML modeling.
 
+## Author
+
+@MastanSayyad
+
+
 
 
 
